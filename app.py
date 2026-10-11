@@ -6,7 +6,7 @@ from sklearn.linear_model import LinearRegression
 
 # Page Configuration
 st.set_page_config(
-    page_title="BijliSmart - Electricity Bill & Consumption Predictor",
+    page_title="Electricity Bill Smart - Bill & Consumption Predictor",
     page_icon="⚡",
     layout="wide"
 )
@@ -63,7 +63,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<div class="main-header">⚡ BijliSmart – Electricity Bill Predictor</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-header">⚡ Electricity Bill Smart – Bill Predictor</div>', unsafe_allow_html=True)
 st.markdown('<div class="sub-header">A smart, beginner-friendly tool to calculate and forecast household electricity consumption and monthly bills.</div>', unsafe_allow_html=True)
 
 # Common Sidebar Settings: Tariffs

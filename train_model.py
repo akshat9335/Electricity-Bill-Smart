@@ -27,7 +27,7 @@ def create_features(df):
     return df_clean
 
 def train_and_evaluate(csv_path="data/electricity_data.csv", model_output_path="model.pkl"):
-    print("--- BijliSmart Model Training ---")
+    print("--- Electricity Bill Smart - Model Training ---")
     
     if not os.path.exists(csv_path):
         print(f"Error: Dataset file not found at {csv_path}")

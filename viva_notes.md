@@ -1,4 +1,4 @@
-# 🎓 BijliSmart — College Viva Preparation Guide (Hinglish)
+# 🎓 Electricity Bill Smart — College Viva Preparation Guide (Hinglish)
 
 College viva aur presentation ke liye ye sabse common questions aur simple answers hain:
 
@@ -6,7 +6,7 @@ College viva aur presentation ke liye ye sabse common questions aur simple answe
 
 ### Q1: Aapka project kis baare me hai? (Project Overview)
 **Answer:**
-> *"Sir, project ka naam **BijliSmart** hai. Ye ek machine learning model hai jo household electricity consumption ke historical monthly data ko analyze karke agle mahine ka electricity consumption (kWh / units) predict karta hai, aur user ke tariff rate ke basis par estimated bijli ka bill calculate karta hai."*
+> *"Sir, project ka naam **Electricity Bill Smart** hai. Ye ek machine learning model hai jo household electricity consumption ke historical monthly data ko analyze karke agle mahine ka electricity consumption (kWh / units) predict karta hai, aur user ke tariff rate ke basis par estimated bijli ka bill calculate karta hai."*
 
 ---
 

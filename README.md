@@ -1,4 +1,4 @@
-# BijliSmart – Electricity Bill Predictor
+# Electricity Bill Smart – Bill Predictor
 
 A beginner-friendly Machine Learning project for predicting next month's household electricity consumption (in kWh) and estimating the monthly electricity bill using historical monthly data.
 
